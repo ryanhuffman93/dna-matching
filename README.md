@@ -15,6 +15,9 @@ in the command line. A few examples of both documents have been provided in this
 for each file is as follows:
 
 *python dna.py assets/large.csv assets/11.txt* should result in 'Hermione'
+
 *python dna.py assets/large.csv assets/15.txt* should result in 'Sirius'
+
 *python dna.py assets/large.csv assets/16.txt* should result in 'No match'
+
 *python dna.py assets/large.csv assets/17.txt* should result in 'Harry'
