@@ -11,7 +11,7 @@ compared against s a list of possible suspects in a .csv file to determine if th
 
 ## Testing
 To run this program, enter the name of the csv file followed by the name of the .txt document you would like to compare
-in the command line. A few examples of both documents have been provided in this project's assets. They answer key 
+in the command line. Examples of both documents have been provided in this project's assets. The answer key 
 for each file is as follows:
 
 *python dna.py assets/large.csv assets/11.txt* should result in 'Hermione'
